@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy_Managment", "Pharmacy_Managment.csproj", "{75D28F4C-5BE0-4481-9BD1-2D158770092E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD5C13AB-6615-448E-A553-89D424AF27DD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		PharmacistUC\UC_P_SellMedicine.cs = PharmacistUC\UC_P_SellMedicine.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D28F4C-5BE0-4481-9BD1-2D158770092E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D28F4C-5BE0-4481-9BD1-2D158770092E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D28F4C-5BE0-4481-9BD1-2D158770092E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D28F4C-5BE0-4481-9BD1-2D158770092E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E5DE72-05DF-4622-A4DA-3CEA790F289F}
+	EndGlobalSection
+EndGlobal
